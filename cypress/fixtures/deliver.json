@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Josiane",
+        "cpf": "12345678923",
+        "email": "josiane@teste.com.br",
+        "whatsapp": "123525478",
+        "address": {
+            "postalcode": "53439360",
+            "street": "Rua Rui Barbosa",
+            "number": "49",
+            "details": "Casa",
+            "district": "Janga",
+            "city_state": "Paulista/PE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg.jpg"
+    },
+    "cpf_inv": {
+        "name": "Bernardo",
+        "cpf": "123456789AA",
+        "email": "bernardo@teste.com.br",
+        "whatsapp": "123525478",
+        "address": {
+            "postalcode": "53439360",
+            "street": "Rua Rui Barbosa",
+            "number": "49",
+            "details": "Casa",
+            "district": "Janga",
+            "city_state": "Paulista/PE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg.jpg"
+    },    
+    "email_inv": {
+        "name": "Josiane",
+        "cpf": "12345678923",
+        "email": "teste.com.br",
+        "whatsapp": "123525478",
+        "address": {
+            "postalcode": "53439360",
+            "street": "Rua Rui Barbosa",
+            "number": "49",
+            "details": "Casa",
+            "district": "Janga",
+            "city_state": "Paulista/PE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg.jpg"
+    }
+}
